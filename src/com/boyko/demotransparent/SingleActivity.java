@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 import com.boyko.demotransparent.R;
 
-// Here is a  comment by sani Sani changed this line and commited.
+// Here is a  comment by sani Sani  that was also changed again. changed this line and commited.
 
 // Here is sanis line 10
 
