@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 import com.boyko.demotransparent.R;
 
-// Here is a  comment by sani
+// Here is a  commen902392343400003092309443280t by sani
 
 // andrey were here :)
 
