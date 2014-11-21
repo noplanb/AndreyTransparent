@@ -7,6 +7,8 @@ import com.boyko.demotransparent.R;
 
 // Here is a  comment by sani
 
+// andrey were here :)
+
 public class SingleActivity extends Activity {
 
 	
