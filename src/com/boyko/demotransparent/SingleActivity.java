@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 import com.boyko.demotransparent.R;
 
-// Andrey please change this line. Sani changed it again.
+// Andrey please change this line. Sani changed it again. jlsjflsdjlfklsdfWas here
 
 public class SingleActivity extends Activity {
 
