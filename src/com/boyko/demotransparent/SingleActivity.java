@@ -9,6 +9,8 @@ import com.boyko.demotransparent.R;
 
 // Here is sanis line 10
 
+// andrey were here :)
+
 public class SingleActivity extends Activity {
 
 	
